@@ -1,12 +1,16 @@
 # Download instructions
 
-Use either option:
+## Premium version
 
-1. Download `Python_Intro_Day1_YouTube_Package.zip`.
-   - It contains:
-     - `Python_Intro_Day1_YouTube.pptx`
-     - `Python_Intro_Day1_Speaker_Notes.md`
+Download `Vallinate_Python_Day1_PREMIUM_Package.zip`.
 
-2. Or download only `Python_Intro_Day1_YouTube.pptx` if you only need the slides.
+It contains:
 
-If the browser opens the file instead of downloading it, right-click the file name and choose **Save link as...**.
+- `Vallinate_Python_Day1_Industry_Edition_PREMIUM.pptx` - upgraded premium deck with generated image panels and modern layouts
+- `Vallinate_Python_Day1_Industry_Edition.pptx` - your original uploaded PPT
+
+## Older generated version
+
+Download `Python_Intro_Day1_YouTube_Package.zip` only if you want the earlier generated deck.
+
+If the browser opens a file instead of downloading it, right-click the file name and choose **Save link as...**.
